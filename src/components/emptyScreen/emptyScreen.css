@@ -1,0 +1,9 @@
+.empty_screen{
+    margin-bottom: 40px;
+}
+.empty_img{
+    object-fit: cover;
+    width: 70px;
+    height: 70px;
+    margin-bottom: 20px;
+}

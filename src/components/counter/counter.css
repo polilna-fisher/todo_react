@@ -1,0 +1,25 @@
+.counter_line{
+    display: flex;
+    margin-bottom: 60px;
+    max-width: 500px;
+    width: 100%;
+    justify-content: space-between;
+
+
+}
+.counter_column{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.counter{
+    color: #4EA8DE;
+}
+.counter_number{
+    background-color: #99999a;
+    padding: 2px 4px;
+    border-radius: 10px;
+
+}
+

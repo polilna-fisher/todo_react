@@ -1,0 +1,22 @@
+.addItem{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.addInput{
+    padding: 15px 30px;
+    color: #FFFFFF;
+    background-color: #383636;
+    margin: 15px;
+    border-radius: 11px;
+    cursor: pointer;
+}
+.addButton{
+    background-color: #4EA8DE;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 15px 30px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
